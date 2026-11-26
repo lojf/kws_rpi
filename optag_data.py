@@ -13,7 +13,7 @@ DEVICE_INDEX = 1 # Sæt til et tal (f.eks. 1 eller 2), hvis I vil tvinge en spec
 
 # Vælg den klasse I vil optage i øjeblikket:
 # Muligheder: "Lager_1", "Lager_2", "Stop", "Unknown", "Noise"
-VALGT_KLASSE = "Unknown"
+VALGT_KLASSE = "Stop"
 
 # ---------------------------------------------------------
 GEM_MAPPE = f"./lyd_data/{VALGT_KLASSE}"
